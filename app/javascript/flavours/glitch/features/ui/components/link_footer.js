@@ -55,6 +55,9 @@ class LinkFooter extends React.PureComponent {
     return (
       <div className='link-footer'>
       <p>
+        Default Mastodon interface too hard? You can use our <a href="https://easymode.sakurajima.moe/">easy mode client</a> if you used Twitter before.
+      </p>
+      <p>
         <strong>Sakurajima is a donor sponsored instance.</strong> You can support us at:
         {' '}
          <a key='paypal' href='https://www.paypal.com/donate/?hosted_button_id=HREN4ATRLZ54S'>Paypal</a>
