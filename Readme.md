@@ -5,6 +5,7 @@ This repo contains all the minor changes that I made for my instance, [Sakurajim
 There are two custom themes at present with more coming. They are:
 - mastodon-sakura - A Sakura-themed Mastodon Theme
 - mastodon-gekka - A gekka (月下美人) themed Mastodon theme.
+- mastodon-holiday - A Christmas-themed Mastodon theme
 
 I appreciate that if you use these themes to link them back to the [creator](https://sakurajima.moe/@chikorita157).
 
