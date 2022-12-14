@@ -9,6 +9,8 @@ There are two custom themes at present with more coming. They are:
 
 I appreciate that if you use these themes to link them back to the [creator](https://sakurajima.moe/@chikorita157).
 
+Tip: only upload the files in the /app/javascript/skins/glitch and /app/javascript/flavours/styles folder only to install the themes
+
 # Adobe Fonts Compatibility
 The application.scss and the content_security_policy.rb are modified so Adobe fonts can work. In the application.scss, add the font CSS of your project from Adobe fonts. Then specify the font name in the custom CSS. Here is an example.
 
