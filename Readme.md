@@ -9,6 +9,8 @@ There are two custom themes at present with more coming. They are:
 
 I appreciate that if you use these themes to link them back to the [creator](https://sakurajima.moe/@chikorita157).
 
+The modern vanilla version uses CSS from the Mastodon Modern by [Freeplay](https://codeberg.org/Freeplay/UserStyles/src/branch/main/mastodon)
+
 Tip: only upload the files in the /app/javascript/skins/glitch and /app/javascript/flavours/styles folder only to install the themes
 
 # Adobe Fonts Compatibility
