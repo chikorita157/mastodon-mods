@@ -1,4 +1,6 @@
 # Mastodon Mods
+**This Repo is Obsolete** - Any future changes will happen at [our fork of Glitch-SOC](https://github.com/chikorita157/mastodon-sakura)
+
 This repo contains all the minor changes that I made for my instance, [Sakurajima](https://sakurajima.moe). This includes additional footer link and a extra button on the logged out view.
 
 # Custom Themes
